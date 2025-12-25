@@ -1,0 +1,12 @@
+type,name,specialty,hours
+doctor,Dr_Aaron_Blake,Cardiology,6
+doctor,Dr_Mia_Santos,Pediatrics,9
+doctor,Dr_Liam_Carter,Neurology,8
+doctor,Dr_Emma_Wong,Ortho,7
+doctor,Dr_Noah_Patel,General,10
+
+patient,Sarah_Kim,Cardiology,3
+patient,Jason_Lee,Neurology,4
+patient,Emily_Perez,Ortho,2
+patient,Olivia_Brown,Pediatrics,5
+patient,Mark_Johnson,General,6
